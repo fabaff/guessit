@@ -14,10 +14,11 @@
 
 This fixes the following error:
 
-```
+```bash
 ************* Module guessit.rules.match_processors
 guessit/rules/match_processors.py:7:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
-``` ([`6a7bb9f`](https://github.com/guessit-io/guessit/commit/6a7bb9f51b9f7ad869767bb1a896a4cb79f3279e))
+```
+([`6a7bb9f`](https://github.com/guessit-io/guessit/commit/6a7bb9f51b9f7ad869767bb1a896a4cb79f3279e))
 
 ### Ci
 
